@@ -23,11 +23,3 @@ This web application is designed to help users retrieve and view library book da
 1. On the main page, type in a book name and either press Enter or click the **Search** button to find the book.
 2. For voice-based search, click the **Search with Voice** button and speak the book's name. The app will automatically search for the recognized title.
 3. Click the **Suggest Book** button to view 5 random book suggestions on the next page, complete with their details.
-
-## Future Enhancements
-- Implementing additional filters for more refined searches (e.g., by author or edition).
-- Adding functionalities to save favorite books or recommend books to others.
-- Improving voice recognition accuracy.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
